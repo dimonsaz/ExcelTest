@@ -1,0 +1,7 @@
+c:\work\ExcelTest\bin\Release\ExcelTest.dll
+c:\work\ExcelTest\bin\Release\ExcelTest.pdb
+c:\work\ExcelTest\obj\Release\ExcelTest.csprojResolveAssemblyReference.cache
+c:\work\ExcelTest\obj\Release\ExcelTest.csproj.ResolveComReference.cache
+c:\work\ExcelTest\obj\Release\ExcelTest.csproj.CoreCompileInputs.cache
+c:\work\ExcelTest\obj\Release\ExcelTest.dll
+c:\work\ExcelTest\obj\Release\ExcelTest.pdb

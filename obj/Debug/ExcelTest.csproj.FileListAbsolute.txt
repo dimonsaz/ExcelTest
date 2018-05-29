@@ -1,0 +1,12 @@
+C:\work\ExcelTest\bin\Debug\ExcelTest.dll
+C:\work\ExcelTest\bin\Debug\ExcelTest.pdb
+C:\work\ExcelTest\obj\Debug\ExcelTest.csprojResolveAssemblyReference.cache
+C:\work\ExcelTest\obj\Debug\ExcelTest.csproj.ResolveComReference.cache
+C:\work\ExcelTest\obj\Debug\ExcelTest.csproj.CoreCompileInputs.cache
+C:\work\ExcelTest\obj\Debug\ExcelTest.dll
+C:\work\ExcelTest\obj\Debug\ExcelTest.pdb
+c:\work\ExcelTest\bin\Debug\ExchangeSharp.dll
+c:\work\ExcelTest\bin\Debug\Newtonsoft.Json.dll
+c:\work\ExcelTest\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+c:\work\ExcelTest\bin\Debug\Newtonsoft.Json.xml
+c:\work\ExcelTest\bin\Debug\ExchangeSharp.pdb
